@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-25T19:44:32 IST" name="Suite" finished-at="2020-06-25T19:44:33 IST" duration-ms="1448">
+    <groups>
+    </groups>
+    <test started-at="2020-06-25T19:44:32 IST" name="Test" finished-at="2020-06-25T19:44:33 IST" duration-ms="1448">
+      <class name="testMaven.TestGet200Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testMaven.TestGet200Test@589b3632]" started-at="2020-06-25T19:44:32 IST" name="setup" finished-at="2020-06-25T19:44:32 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="baseUrlReturns200()[pri:0, instance:testMaven.TestGet200Test@589b3632]" started-at="2020-06-25T19:44:32 IST" name="baseUrlReturns200" finished-at="2020-06-25T19:44:33 IST" duration-ms="848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrlReturns200 -->
+        <test-method signature="rateLimit()[pri:0, instance:testMaven.TestGet200Test@589b3632]" started-at="2020-06-25T19:44:33 IST" name="rateLimit" finished-at="2020-06-25T19:44:33 IST" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rateLimit -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testMaven.TestGet200Test@589b3632]" started-at="2020-06-25T19:44:33 IST" name="tearDown" finished-at="2020-06-25T19:44:33 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testMaven.TestGet200Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
